@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Last Garaiza | Portfolio</title>
+  <style>
+    body {
+      font-family: Arial;
+      margin: 0;
+      background: #0f172a;
+      color: white;
+    }
+    header {
+      text-align: center;
+      padding: 40px;
+      background: #020617;
+    }
+    section {
+      padding: 30px;
+    }
+    h2 {
+      color: #38bdf8;
+    }
+    .card {
+      background: #1e293b;
+      padding: 15px;
+      margin: 10px 0;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>Last Garaiza</h1>
+  <p>ECE Student | Embedded Systems | AI & IoT Enthusiast</p>
+</header>
+
+<section>
+  <h2>About Me</h2>
+  <p>
+    I am an Electronics and Communication Engineering student at 
+    Manav Rachna International Institute of Research and Studies.
+    I am passionate about embedded systems, renewable energy, and smart automation.
+  </p>
+</section>
+
+<section>
+  <h2>Skills</h2>
+  <div class="card">Microcontrollers: Arduino Uno, ESP32, Raspberry Pi Pico</div>
+  <div class="card">Programming: Java, C++, Python</div>
+  <div class="card">Tools: MATLAB</div>
+</section>
+
+<section>
+  <h2>Projects</h2>
+  <div class="card">
+    <strong>Automatic Solar Tracker System</strong><br>
+    Improves solar efficiency using light sensors and motors.
+  </div>
+  <div class="card">
+    <strong>Smart Energy Meter</strong><br>
+    Monitors electricity usage and helps reduce wastage.
+  </div>
+  <div class="card">
+    <strong>Electricity Load Shedding System</strong><br>
+    MATLAB-based system for managing power distribution in Zimbabwe (Harare).
+  </div>
+</section>
+
+<section>
+  <h2>Contact</h2>
+  <p>Email: lastgaraiza2003@gmail.com</p>
+</section>
+
+</body>
+</html>
